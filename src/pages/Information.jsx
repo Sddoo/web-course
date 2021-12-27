@@ -22,6 +22,7 @@ const Content = styled.div`
 `
 
 const Image = styled.img`
+	width: 80%;
 `
 
 const Information = () => {
